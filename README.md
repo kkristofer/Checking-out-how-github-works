@@ -1,1 +1,1 @@
-Trying out python and githup
+Trying out githup
